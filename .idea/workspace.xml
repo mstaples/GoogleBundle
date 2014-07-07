@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cfd17d9-168c-4884-a682-75cfc441cf0a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/GoogleBundle.iml" afterPath="$PROJECT_DIR$/.idea/GoogleBundle.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BIT/GoogleBundle" afterPath="$PROJECT_DIR$/BIT/GoogleBundle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FOS/GoogleBundle" afterPath="$PROJECT_DIR$/FOS/GoogleBundle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BIT/GoogleBundle/composer.json" afterPath="$PROJECT_DIR$/BIT/GoogleBundle/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GoogleBundle.iws" />
     <ignored path=".idea/workspace.xml" />
