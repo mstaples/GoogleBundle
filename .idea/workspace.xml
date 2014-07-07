@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cfd17d9-168c-4884-a682-75cfc441cf0a" name="Default" comment="" />
+    <list default="true" id="8cfd17d9-168c-4884-a682-75cfc441cf0a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BIT/GoogleBundle" afterPath="$PROJECT_DIR$/BIT/GoogleBundle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FOS/GoogleBundle" afterPath="$PROJECT_DIR$/FOS/GoogleBundle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="GoogleBundle.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,10 +36,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="17" selection-start="626" selection-end="626" vertical-scroll-proportion="0.4341534" vertical-offset="0" max-vertical-offset="691">
+            <state line="20" column="17" selection-start="626" selection-end="626" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="450">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="13" selection-start="253" selection-end="253" vertical-scroll-proportion="0.13043478" vertical-offset="0" max-vertical-offset="5745">
               <folding />
             </state>
           </provider>
@@ -85,6 +98,7 @@
         <option value="$PROJECT_DIR$/google-bundle/FOS/GoogleBundle/README.md" />
         <option value="$PROJECT_DIR$/google-bundle/BIT/GoogleBundle/README.md" />
         <option value="$PROJECT_DIR$/google-bundle/BIT/GoogleBundle/composer.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -252,7 +266,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="17" selection-start="626" selection-end="626" vertical-scroll-proportion="0.4341534" vertical-offset="0" max-vertical-offset="691">
+        <state line="20" column="17" selection-start="626" selection-end="626" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="253" selection-end="253" vertical-scroll-proportion="0.13043478" vertical-offset="0" max-vertical-offset="5745">
           <folding />
         </state>
       </provider>
