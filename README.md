@@ -4,7 +4,7 @@ This Bundle is an old version of the bitgandtter/google-bundle.
 I am maintaining this independently as this version is used in my current project.
 Note: this branch is compatible with releases of Symfony2 >= v2.3
 
-Installation 
+Installation
 ============
 
   1. Add this bundle and the Google PHP SDK to your ``vendor/`` dir:
